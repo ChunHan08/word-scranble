@@ -1,39 +1,127 @@
-let words = [
+const words = [
   {
-    word: "snake",
-    hint: "A reptile that slithers around"
+    word: "imagine",
+    hint: "Step up the two of us, nonbody knows us"
   },
   {
-    word: "elephant",
-    hint: "A big grey animal"
+    word: "needy",
+    hint: "I know it feels so good to be needed"
   },
   {
-    word: "pan",
-    hint: "A thin piece of bread"
+    word: "nasa",
+    hint: "Give you the whole world, Ima need space"
   },
   {
-    word: "Messi",
-    hint: "A football player"
+    word: "bloodline",
+    hint: "Love me, thank you love "
   },
   {
-    word: "soccer",
-    hint: "A sport played with a ball"
+    word: "fakesmile",
+    hint: " And i wont say im fine"
   },
   {
-    word: "paper",
-    hint: "A material used to write"
+    word: "badidea",
+    hint: "How 'bout we take a little bit of time away"
   },
   {
-    word: "pencil",
-    hint: "A writing tool"
+    word: "makeup",
+    hint: "You know that Im bout to wake up with you"
   },
   {
-    word: "fart",
-    hint: "A smelly smell"
+    word: "ghostin",
+    hint: "Heavy tears, a rain parade from hell"
   },
   {
-    word: "water",
-    hint: "A liquid that flows"
+    word: "inmyhead",
+    hint: "Gugci tennis shows running from your issues"
+  },
+  {
+    word: "blazed",
+    hint: "That something cant be found",
+  },
+  {
+    word: "rem",
+    hint: "If you can belive"
+  },
+  {
+    word: "sweetener",
+    hint: "Mix it and mix it and mix it and mix it"
+  },
+  {
+    word: "successful",
+    hint: "I got some real good news from work"
+  },
+  {
+    word: "everytime",
+    hint: "Its like something out of Shakespeare"
+  },
+  {
+    word: "breathin",
+    hint: "Time goes by and I can control my mind"
+  },
+  {
+    word: "borderline",
+    hint: "You know I'm the wifey tybe, babe (rrah, woo)"
+  },
+  {
+    word: "betteroff",
+    hint: "Steerin' clear of any headaches to start"
+  },
+  {
+    word: "moonlight",
+    hint: "Makes me wanna give you my heart"
+  },
+  {
+    word: "bealright",
+    hint: "When finding love is a battle"
+  },
+  {
+    word: "intoyou",
+    hint: "Oh, baby. look what you started"
+  },
+  {
+    word: "greedy",
+    hint: "Been in this state of mind"
+  },
+  {
+    word: "everyday",
+    hint: "He gave me that good sh!t"
+  },
+  {
+    word: "sometimes",
+    hint: "Ooh, and im not tempted, baby"
+  },
+  {
+    word: "idontcare",
+    hint: "Now I laugh about the things"
+  },
+  {
+    word: "touchit",
+    hint: "And i remember all the places you wanna go"
+  },
+  {
+    word: "problem",
+    hint: "And even though I cant forgive you"
+  },
+  {
+    word: "whytry",
+    hint: "Now were screaming just to see whos louder"
+  },
+  {
+    word: "breakfree",
+    hint: "This is the part when i say i dont want ya"
+  },
+  {
+    word: "bemybaby",
+    hint: "Baby, then youll get the chnave the chance to love me"
+  },
+  {
+    word: "lovemeharder",
+    hint: "Something bigger than us and beyond bliss"
+  },
+  {
+    word: "babyi",
+    hint: "But the words cant even touch what's in my heart"
   },
   {
     word: "sigma",
