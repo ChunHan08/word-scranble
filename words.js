@@ -99,4 +99,108 @@ let words = [
     word: "plate",
     hint: "A flat surface used to eat food"
   },
+  {
+    word: "chair",
+    hint: "A piece of furniture for sitting"
+  },
+  {
+    word: "bottle",
+    hint: "A container for holding liquids"
+  },
+  {
+    word: "battery",
+    hint: "A device used to store energy"
+  },
+  {
+    word: "delete",
+    hint: "A command to remove something"
+  },
+  {
+    word: "police",
+    hint: "A group of people who investigate crimes"
+  },
+  {
+    word: "fire",
+    hint: "A dangerous smell"
+  },
+  {
+    word: "water",
+    hint: "A liquid that flows"
+  },
+  {
+    word: "earth",
+    hint: "The third planet from the sun"
+  },
+  {
+    word: "air",
+    hint: "The invisible gaseous substance"
+  },
+  {
+    word: "lift",
+    hint: "A command to move something up or down"
+  },
+  {
+    word: "claw",
+    hint: "A tool used to cut something"
+  },
+  {
+    word: "cake",
+    hint: "A sweet dessert"
+  },
+  {
+    word: "bread",
+    hint: "A flat baked food"
+  },
+  {
+    word: "candy",
+    hint: "A sweet treat"
+  },
+  {
+    word: "juice",
+    hint: "A drink made from fruit"
+  },
+  {
+    word: "sugar",
+    hint: "A sweet substance"
+  },
+  {
+    word: "salt",
+    hint: "A mineral substance"
+  },
+  {
+    word: "pepper",
+    hint: "A spicy food"
+  },
+  {
+    word: "butter",
+    hint: "A sweet substance"
+  },
+  {
+    word: "tab",
+    hint: "A device used to switch between tabs"
+  },
+  {
+    word: "book",
+    hint: "A written work"
+  },
+  {
+    word: "pen",
+    hint: "A writing tool"
+  },
+  {
+    word: "house",
+    hint: "A building where people live"
+  },
+  {
+    word: "car",
+    hint: "A vehicle used for transportation"
+  },
+  {
+    word: "train",
+    hint: "A vehicle used for transportation"
+  },
+  {
+    word: "plane",
+    hint: "A flying vehicle"
+  },
 ]
