@@ -11,7 +11,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: #fde808;
+  background-image: linear-gradient(to right top, #f287ca, #96b0b8);
 }
 .container{
   width: 440px;
