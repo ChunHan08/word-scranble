@@ -124,33 +124,114 @@ const words = [
     hint: "But the words cant even touch what's in my heart"
   },
   {
-    word: "sigma",
-    hint: "A letter in the alphabet"
+    word: "rightthere",
+    hint: "Youre so diffrent, no one comapres"
   },
   {
-  word: "pi",
-  hint: "3.14"
+    word: "lovinit",
+    hint: "You got all my love, all my love?"
   },
   {
-  word: "monkey",
-  hint: "A small animal"
+    word: "piano",
+    hint: "I could sing about how love is a lsoing battle"
   },
   {
-    word: "banana",
-    hint: "A yellow fruit"
+    word: "daydreamin",
+    hint: "The way to make me feel inside"
   },
   {
-    word: "apple",
-    hint: "A red fruit"
+    word: "theway",
+    hint: "Say, Im thinking bout her every secound, every hour"
   },
   {
-    word: "prime",
-    hint: "A number that is only divisible by itself and 1"
+    word: "focus",
+    hint: "Im over here doing what i like"
   },
   {
-    word: "computer",
-    hint: "An electronic device"
+    word: "monopoly",
+    hint: "Ive been on a roll where you been?"
   },
+  {
+    word: "quit",
+    hint: "And you say that I'm the devil you know"
+  },
+  {
+    word: "bed",
+    hint: "Thousand dolloar sheets"
+  },
+  {
+    word: "adore",
+    hint: "Boy, so what been on your mind?"
+  },
+  {
+    word: "december",
+    hint: "Wrap me all up nad take me home with you"
+  },
+  {
+    word: "boyfriend",
+    hint: "But I do just what I have to do"
+  },
+  {
+    word: "shutup",
+    hint: "All the demons helped me see sh!t diffrently"
+  },
+  {
+    word: "motive",
+    hint: "That you really wanna make me yours"
+  },
+  {
+    word: "sixthirty",
+    hint: "So come here and give me some kisses"
+  },
+  {
+    word: "myhair",
+    hint: "Like the way you do my mind"
+  },
+  {
+    word: "nasty",
+    hint: "No more playin safe, lets just take it all the way"
+  },
+  {
+    word: "westside",
+    hint: "Ill bring the life right back"
+  },
+  {
+    hint: "obvoius",
+    hint: "Other that ive had had to impress me before"
+  },
+  {
+    word: "pov",
+    hint: "Made the glass the way you see through me"
+  },
+  {
+    word: "testdrive",
+    hint: "No second guessing, checking the rearview"
+  },
+  {
+    word: "intro",
+    hint: "Deel it in your bones and own that sh!t"
+  },
+  {
+    word: "bye",
+    hint: "I cant belive that im fainnly moving through my fears"
+  },
+  {
+    word: "supernatural",
+    hint: "This is a true story about all the games"
+  },
+  {
+    word: "santababy",
+    hint: "Think of all the fun I've missed"
+  },
+  {
+    word: "truelove",
+    hint: "After six days in your arms"
+  },
+  {
+    word: "7rings",
+    hint: "My wrist, stop whatchin my neck is flossy"
+  },
+  
   {
     word: "keyboard",
     hint: "An input device"
